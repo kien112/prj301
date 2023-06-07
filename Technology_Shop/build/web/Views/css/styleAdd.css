@@ -1,0 +1,37 @@
+
+h3{
+    font-size: 30px;
+    text-align: center;
+}
+.form{
+    width: 400px;
+    height: 500px;
+    box-shadow: 0px 0px 10px #084298;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 150px 300px;
+}
+.input{
+    margin: 10px 30px;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.input:focus{
+    box-shadow: 0px 0px 10px #0082bb;
+}
+
+.selection{
+    margin: 10px 20px;
+}
+.btn{
+    width: 90px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #0082bb;
+    margin: 50px 20px;
+}
+.btn:hover{
+    box-shadow: 0px 0px 10px #0082bb;
+}
